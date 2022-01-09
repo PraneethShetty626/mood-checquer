@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "37416995563",
+    "project_id": "moodchecquer",
+    "storage_bucket": "moodchecquer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:37416995563:android:b75e9bc4ff8179af55ccae",
+        "android_client_info": {
+          "package_name": "com.example.moodchecquer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "37416995563-823nvujfi077p5slu7mqiis55jc19ibk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAh8p2as-AXaEwiUgogT8RKL0pwfJD8VqM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "37416995563-823nvujfi077p5slu7mqiis55jc19ibk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
